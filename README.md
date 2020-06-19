@@ -115,7 +115,7 @@ If you have any questions about the repo, open an issue or contact any of the [a
 ![npm](https://img.shields.io/npm/v/inquirer?style=flat)
 ![npm express](https://img.shields.io/badge/npm-express-blue)
 ![npm handlebars](https://img.shields.io/badge/npm-handlebars-blue)
-![npm sequelize](https://img.shields.io/badge/language-sequelize-blue)
+![npm sequelize](https://img.shields.io/badge/npm-sequelize-blue)
 ![npm mysql2](https://img.shields.io/badge/npm-mysql2-blue)
 
 
