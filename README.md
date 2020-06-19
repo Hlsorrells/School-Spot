@@ -111,13 +111,14 @@ Once the student has completed an assignment, the student needs to click on the 
 
 Please feel free to try out my application! I only ask that you are respectful in creating names for the users. This list below are the starter users that I placed in the application so you can browse the applications functionality for yourself. You can create, grade and delete assignments as an instructor or complete assignments and review grades as a student. Happy touring!
 
-User Name       Email               Password    Related To
-Teacher Smith   TSmith@test.com     test        Student Jones, Student Morris
-Teacher Doe     TDoe@test.com       test        Student Green, Student Allen
-Student Jones   SJones@test.com     test        Teacher Smith
-Student Morris  SMorris@test.com    test        Teacher Smith
-Student Green   SGreen@test.com     test        Teacher Doe
-Student Allen   SAllen@test.com     test        Teacher Doe
+| User Name       | Email               | Password    | Related To | 
+| --- | --- | --- | --- |
+| Teacher Smith | TSmith@test.com | test | Student Jones, Student Morris
+| Teacher Doe | TDoe@test.com | test | Student Green, Student Allen
+| Student Jones | SJones@test.com | test | Teacher Smith
+| Student Morris | SMorris@test.com | test | Teacher Smith
+| Student Green | SGreen@test.com | test | Teacher Doe
+| Student Allen | SAllen@test.com | test | Teacher Doe
 
 ## Questions
 If you have any questions about the repo, open an issue or contact any of the [authors](#authors) listed below.
